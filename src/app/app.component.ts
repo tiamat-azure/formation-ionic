@@ -20,6 +20,16 @@ export class AppComponent {
       title: 'List',
       url: '/list',
       icon: 'list'
+    },
+    {
+      title: 'Signature',
+      url: '/signature',
+      icon: 'pulse'
+    },
+    {
+      title: 'Nouvelle annonce',
+      url: '/nouvelle-annonce',
+      icon: 'add-circle'
     }
   ];
 
